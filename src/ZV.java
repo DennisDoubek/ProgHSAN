@@ -47,3 +47,4 @@ public class ZV{
         System.out.println("Gesamtgewinn: " + df.format(gesamtgewinn));
     }
 }
+//Test
